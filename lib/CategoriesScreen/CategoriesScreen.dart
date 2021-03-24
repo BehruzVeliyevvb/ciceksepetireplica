@@ -16,7 +16,7 @@ class _CategoriesScreenState extends State<CategoriesScreen> {
         child: Column(
       children: [
         SizedBox(
-          height: 24,
+          height: 23,
         ),
         SearchButton(),
         Divider(
